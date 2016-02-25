@@ -1,0 +1,7 @@
+{
+  "name": "dining-line-checker",
+  "version": "1.0.0",
+  "devDependencies": {
+    "cordova": "^6.0.0"
+  }
+}
